@@ -3,7 +3,7 @@
 This repository contains assignments and practical tasks for the **Introduction to Artificial Intelligence** course.
 
 ## 📚 Course
-Introduction to Artificial Intelligencehttps://github.com/ziadmahomedpc-cpu/-Introduction-to-AI/tree/main
+Introduction to Artificial Intelligencehttps
 
 ## 📂 Files
 
